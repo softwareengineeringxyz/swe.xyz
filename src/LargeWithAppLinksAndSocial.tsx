@@ -78,7 +78,7 @@ export default function LargeWithAppLinksAndSocial() {
             <Link href={'#'}>Community Guidelines</Link>
           </Stack>
 
-          w<Stack align={'flex-start'}>
+          <Stack align={'flex-start'}>
             <ListHeader>Legal</ListHeader>
             <Link href={'#'}>Cookies Policy</Link>
             <Link href={'#'}>Privacy Policy</Link>
